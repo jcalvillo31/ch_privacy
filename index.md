@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-CH Boss Tracker collects only the minimal data required to provide a functional and secure experience. We do not use your data for tracking or advertising purposes.
+Celtic Heroes Companion collects only the minimal data required to provide a functional and secure experience. Your data is not used for tracking or advertising purposes.
 
 **Information We Collect**
 
@@ -22,10 +22,10 @@ CH Boss Tracker collects only the minimal data required to provide a functional 
 
 All user data is stored securely using Firebase, which adheres to industry best practices for security and compliance.
 
-Contact
+**Contact**
 
 If you have questions or concerns about this policy, please contact me via josecalvillo31@icloud.com
 
 ⸻
 
-Last updated: May 9, 2025
+Last updated: May 15, 2025
